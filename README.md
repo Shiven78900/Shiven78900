@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Shiven!!
 
 <div align="center">
   
@@ -120,7 +120,7 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
   
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
   
-  ⭐️ From [yourusername](https://github.com/yourusername)
+  ⭐️ From Shiven Jindal (https://github.com/Shiven78900)
   
 </div>
 
