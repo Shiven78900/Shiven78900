@@ -75,17 +75,6 @@ const currentFocus = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiven78900&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiven78900&layout=compact&theme=radical)
-  
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
