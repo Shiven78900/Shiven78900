@@ -117,7 +117,7 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
   
   **"The best way to predict the future is to create it!"** 🚀  
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shiven78900color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shiven78900&color=blueviolet)
   
   ⭐️ From Shiven Jindal (https://github.com/Shiven78900)
   
