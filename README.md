@@ -96,8 +96,9 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
   **💬 Want to work on a project together?**  
   **📧 Drop me a message - I'd love to hear from you!**
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shiven-jindal-5403602b4/])
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiven-jindal-5403602b4/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivenjindal@gmail.com)
+
   
 </div>
 
