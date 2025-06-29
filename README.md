@@ -79,9 +79,9 @@ const currentFocus = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiven78900&show_icons=true&theme=radical)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiven78900&layout=compact&theme=radical)
   
 </div>
 
@@ -96,9 +96,8 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
   **💬 Want to work on a project together?**  
   **📧 Drop me a message - I'd love to hear from you!**
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shiven-jindal-5403602b4/])
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivenjindal@gmail.com)
   
 </div>
 
@@ -118,7 +117,7 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
   
   **"The best way to predict the future is to create it!"** 🚀  
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shiven78900color=blueviolet)
   
   ⭐️ From Shiven Jindal (https://github.com/Shiven78900)
   
